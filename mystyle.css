@@ -1,0 +1,26 @@
+ #first-btn,
+    #college-btn {
+      background-color: blue;
+
+      color: white
+    }
+
+    .cool {
+      background-color: tomato;
+      color: white;
+    }
+
+    .vodro {
+      font-size: 40px;
+    }
+
+    div h2 {
+      color: blueviolet
+    }
+
+    /* *{    
+    text style
+    button style
+    image style
+    box style
+    } */

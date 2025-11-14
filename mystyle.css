@@ -15,7 +15,8 @@
     }
 
     div h2 {
-      color: blueviolet
+      color: blueviolet;
+      font-family: 'Courier New', Courier, monospace;
     }
 
     /* *{    
